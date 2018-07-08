@@ -4,46 +4,47 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 4.x\n"
+"Project-Id-Version: 4.1.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-08 08:48-0600\n"
 "PO-Revision-Date: 2018-06-08 08:48-0600\n"
-"Last-Translator: MrDave <MotionMrDave@gmail.com>\n"
-"Language-Team: MrDave <MotionMrDave@gmail.com>\n"
+"Last-Translator: momo-i <webmaster@momo-i.org>\n"
+"Language-Team: momo-i <webmaster@momo-i.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: vim\n"
 
 #: conf.c:1960
 #, c-format
 msgid "Deprecated config option \"%s\" since after version %s:"
-msgstr ""
+msgstr "設定オプション「%s」はバージョン%sから非推奨です:"
 
 #: conf.c:1984
 #, c-format
 msgid "Unknown config option \"%s\""
-msgstr ""
+msgstr "不明なコンフィグオプション「%s」"
 
 #: conf.c:2084
 #, c-format
 msgid "Writing config file to %s"
-msgstr ""
+msgstr "%sへコンフィグファイルを書き込み中"
 
 #: conf.c:2230
 #, c-format
 msgid "Configfile %s not found - trying defaults."
-msgstr ""
+msgstr "コンフィグファイル%sが見つかりません。デフォルトを試します。"
 
 #: conf.c:2234
 msgid "Error getcwd"
-msgstr ""
+msgstr "getcwdエラー"
 
 #: conf.c:2252
 #, c-format
 msgid "could not open configfile %s"
-msgstr ""
+msgstr "コンフィグファイル%sを開けませんでした"
 
 #: conf.c:2262
 #, c-format
